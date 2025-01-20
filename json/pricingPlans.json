@@ -1,0 +1,5242 @@
+{
+  "logo-design": {
+    Concepts: {
+      basic: "1",
+      standard: "3",
+      premium: "4",
+    },
+    "Logo transparency": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Vector file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Printable file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "3d mockup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Social media kit": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "5",
+      standard: "7",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+  },
+  "brand-style": {
+    "Logo design": {
+      basic: "2",
+      standard: "3",
+      premium: "6",
+    },
+    "Logo usage guidelines": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Color palette": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Typography guidelines": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Iconography: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Do's and don'ts": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Brand book design": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "7",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "3",
+    },
+  },
+  "buisness-cards": {
+    Concepts: {
+      basic: "no",
+      standard: "2",
+      premium: "3",
+    },
+    Concept: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Files ready for print": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Front & back design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "5",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "3",
+    },
+  },
+  "fonts-typography": {
+    "Ttf / otf file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Color font": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Punctuation marks": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Numbers 0-9": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Uppercase letters": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Lowercase letters": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    "Copyright agreement": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "website-design": {
+    "Website pages": {
+      basic: "3",
+      standard: "7",
+      premium: "15",
+    },
+    "Custom assets": {
+      basic: "no",
+      standard: "5",
+      premium: "7",
+    },
+    "Responsive design": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Prototype: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Convert to html/css": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "6",
+      standard: "10",
+      premium: "15",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Slider: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Contact form": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Admin panel": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Video tutorials": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "app-design": {
+    "Pages/screens": {
+      basic: "1",
+      standard: "5",
+      premium: "10",
+    },
+    "Custom assets / custom asset": {
+      basic: "1",
+      standard: "5",
+      premium: "10",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Wireframes: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Prototype: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "6",
+      premium: "8",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "ux-design": {
+    "Ui design app screens": {
+      basic: "4",
+      standard: "10",
+      premium: "20",
+    },
+    Wireframes: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Prototype: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Mockup: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Ui design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "6",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "landing-page-design": {
+    "Designed sections": {
+      basic: "2",
+      standard: "4",
+      premium: "8",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "icon-design": {
+    Icons: {
+      basic: "no",
+      standard: "5",
+      premium: "10",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Png: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Jpg: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Svg: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+  },
+  illustration: {
+    Figures: {
+      basic: "1",
+      standard: "2",
+      premium: "4",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Printable resolution file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add background/scene": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Colors in illustration": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Entire body illustration": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "no",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Days delivery": {
+      basic: "no",
+      standard: "3",
+      premium: "no",
+    },
+  },
+  "children-illustration": {
+    Illustration: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Characters: {
+      basic: "3",
+      standard: "3",
+      premium: "5",
+    },
+    "Background/scene": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Color illustration": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Book layout": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "8",
+      standard: "8",
+      premium: "8",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Figures: {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+  },
+  "portrait-caricatures": {
+    "Printable resolution file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Figure: {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+    "Add background/scene": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Colors in illustration": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Entire body illustration": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "8",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "6",
+      premium: "2",
+    },
+  },
+  "cartoon-comics": {
+    Figures: {
+      basic: "no",
+      standard: "2",
+      premium: "3",
+    },
+    Figure: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Printable resolution file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add background/scene": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Colors in illustration": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Panels: {
+      basic: "no",
+      standard: "2",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "no",
+      standard: "2",
+      premium: "",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "4",
+      premium: "6",
+    },
+    Panel: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    Revision: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "pattern-design": {
+    "Pattern detailed print / pattern seamless print": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Objects: {
+      basic: "2",
+      standard: "4",
+      premium: "unlimited",
+    },
+    Color: {
+      basic: "2",
+      standard: "no",
+      premium: "unlimited",
+    },
+    "Source files / source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revision: {
+      basic: "no",
+      standard: "no",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "5",
+      premium: "6",
+    },
+    "Jpeg/png": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Colors: {
+      basic: "no",
+      standard: "4",
+      premium: "no",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "3",
+      premium: "no",
+    },
+  },
+  "story-boards": {
+    "Frame storyboard": {
+      basic: "6",
+      standard: "6",
+      premium: "25",
+    },
+    Coloured: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Shading: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Highlights and tones.": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Descriptive text": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Add background/scene": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Colors in illustration": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Days: {
+      basic: "no",
+      standard: "no",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "2",
+      premium: "2",
+    },
+    Coloring: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "no",
+    },
+  },
+  "nft-art": {
+    "Base artwork": {
+      basic: "no",
+      standard: "1",
+      premium: "1",
+    },
+    Artwork: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Traits/accessories": {
+      basic: "3",
+      standard: "30",
+      premium: "80",
+    },
+    Variations: {
+      basic: "no",
+      standard: "1000",
+      premium: "5000",
+    },
+    Metadata: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Collection generation": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add background/scene": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "11",
+      premium: "15",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Variation: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "image-editing": {
+    Image: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Printable resolution file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "presentation-design": {
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Slides: {
+      basic: "5",
+      standard: "10",
+      premium: "15",
+    },
+    Transition: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Animation: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "yes",
+    },
+    "Slide transition": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "background-removal": {
+    "High quality retouched": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "White background": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Basic retouching.clean up": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Lifestyle image": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Vip support": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Images: {
+      basic: "no",
+      standard: "3",
+      premium: "2",
+    },
+    "Printable resolution file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "5",
+      premium: "5",
+    },
+    "Add shadow": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Reflection: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "infographic-design": {
+    "Infographic data points": {
+      basic: "10",
+      standard: "20",
+      premium: "35",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "vector-tracing": {
+    "Vector illustration": {
+      basic: "1 b / w",
+      standard: "1",
+      premium: "1",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ai vector format": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Eps vector format": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Vector .pdf format": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Svg format": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "High res raster file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "3",
+      premium: "5",
+    },
+    ".svg format": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "resume-design": {
+    "Cover letter design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Pdf ats friendly": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "6",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Pages: {
+      basic: "no",
+      standard: "2",
+      premium: "no",
+    },
+    Page: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Product and final concept rendering": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "3d render": {
+      basic: "1",
+      standard: "4",
+      premium: "9",
+    },
+    Revision: {
+      basic: "2",
+      standard: "no",
+      premium: "no",
+    },
+    "Highly detail characters": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Creatures: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Object: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Small cartoon characters": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Furniture: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Objects: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Props: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Toys with medium details": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Social media kit": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    Intermission: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Banner: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Mascot/esports logo": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "Logo design": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Custom overlay": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Facecam / facecam overlay": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Panel design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Alerts: {
+      basic: "no",
+      standard: "6",
+      premium: "6",
+    },
+    Screens: {
+      basic: "3",
+      standard: "6",
+      premium: "6",
+    },
+    Chat: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Ending: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Text logo": {
+      basic: "no",
+      standard: "1",
+      premium: "no",
+    },
+    "Unlimited twitch panels": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Starting soon": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Offline: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Game overlay": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "social-media-design": {
+    Thumbnails: {
+      basic: "3",
+      standard: "6",
+      premium: "10",
+    },
+    "Image sourcing": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Custom designed images": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "social-posts-and-banners": {
+    "Engaging social media ads | you'll provide text/copy": {
+      basic: "1",
+      standard: "5",
+      premium: "15",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "6",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+  "email-design": {
+    "Designed email": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Convert to html/css": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Editable template": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Email setup": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "2",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+  },
+  "web-banners": {
+    "Banner designs / banner design": {
+      basic: "1",
+      standard: "3",
+      premium: "5",
+    },
+    "Source files / source file": {
+      basic: "1",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Aftermarket services (days)": {
+      basic: "no",
+      standard: "2",
+      premium: "2",
+    },
+    "Size variation": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Design: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Remove photo background": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "4",
+    },
+  },
+  "signage-design": {
+    "Quality design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Concepts: {
+      basic: "no",
+      standard: "no",
+      premium: "2",
+    },
+    "Print-ready/source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Size variation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Design mockup": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "2",
+      premium: "2",
+    },
+    Concept: {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+  },
+  "flyer-design": {
+    "Quality flyers / quality flyer": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "E-brochure . 300dpi (page)": {
+      basic: "no",
+      standard: "4",
+      premium: "6",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Custom graphics": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Photo editing": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "8",
+      premium: "unlimited",
+    },
+    Cmyk: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Rgb: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Files ready for print": {
+      basic: "",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Social media design": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "brochure-design": {
+    "Design document in pdf (page) / design document in pdf": {
+      basic: "4",
+      standard: "10",
+      premium: "20",
+    },
+    "Files ready for print": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "yes",
+    },
+  },
+  "poster-design": {
+    "One page flyer/poster (sides)": {
+      basic: "1",
+      standard: "2",
+      premium: "2",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Files ready for print": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "3",
+      premium: "2",
+    },
+    "Unlimited revisions": {
+      basic: "no",
+      standard: "no",
+      premium: "unlimited",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "no",
+    },
+  },
+  "catalog-design": {
+    "Company profile - page service": {
+      basic: "3",
+      standard: "45",
+      premium: "80",
+    },
+    Portfolio: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Magazine: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Company profile": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Business proposal / business proposal - include cover design": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "White paper": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Catalog - include cover design / catalog": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Files ready for print": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "7",
+      premium: "11",
+    },
+    Revisions: {
+      basic: "5",
+      standard: "9",
+      premium: "unlimited",
+    },
+    Booklet: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Book format": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Resume: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "menu-design": {
+    "Menu side": {
+      basic: "1",
+      standard: "2",
+      premium: "6",
+    },
+    "Folding menu design": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Files ready for print": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "packaging-label": {
+    "Professional package design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Initial concepts / initial concept": {
+      basic: "1",
+      standard: "2",
+      premium: "2",
+    },
+    "Full product wrapping": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Files ready for print": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Dielines: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "3d mockup": {
+      basic: "no",
+      standard: "1",
+      premium: "yes",
+    },
+    "Include source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "book-covers": {
+    "Professional 2d cover": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Stock images": {
+      basic: "1",
+      standard: "3",
+      premium: "3",
+    },
+    Concept: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Spine designs": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Jacket cover": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Include source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "3d mockup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Artwork: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ready for spotify": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Itunes: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Apple music": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Deezer and all streaming platforms": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "album-cover": {
+    Artwork: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ready for spotify": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Itunes: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Apple music": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Deezer and all streaming platforms": {
+      basic: "no",
+      standard: "1",
+      premium: "yes",
+    },
+    Concept: {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Social media kit": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "3d mockup": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "no",
+      standard: "3",
+      premium: "2",
+    },
+    Revisions: {
+      basic: "no",
+      standard: "5",
+      premium: "9",
+    },
+    "Include source file / include 3d mockup": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "search-engine-optimization": {
+    "Backlink analysis": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Seo backlinks": {
+      basic: "15",
+      standard: "55",
+      premium: "no",
+    },
+    "Competitor backlink analysis": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "4 days delivery": {
+      basic: "no",
+      standard: "no",
+      premium: "4",
+    },
+    "High domain authority": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Manual link building": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Off page strategy": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "no",
+    },
+  },
+  "search-engine-marketing": {
+    "Campaign setup": {
+      basic: "1",
+      standard: "2",
+      premium: "yes",
+    },
+    Retargeting: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Prepare retargeting audiences": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Account setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Keywords: {
+      basic: "25",
+      standard: "45",
+      premium: "25",
+    },
+    "Ad type recommendations / ad creation / ad groups": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Bidding: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Budget suggestion": {
+      basic: "",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "8",
+      standard: "15",
+      premium: "23",
+    },
+    "Data studio - account setup": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Schedulable monthly report": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "local-seo": {
+    Location: {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    Places: {
+      basic: "35",
+      standard: "50",
+      premium: "no",
+    },
+    Maps: {
+      basic: "no",
+      standard: "no",
+      premium: "2",
+    },
+    "Local citations / local secret sauce": {
+      basic: "35",
+      standard: "yes",
+      premium: "yes",
+    },
+    Pic: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Driving directions": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "8",
+      standard: "8",
+      premium: "8",
+    },
+  },
+  "eCommerce-seo": {
+    "Targeted/niche specific keyword": {
+      basic: "15",
+      standard: "65",
+      premium: "120",
+    },
+    "Seo optimized titles": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Shop audit": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "E-commerce seo audit": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Pages: {
+      basic: "1",
+      standard: "5",
+      premium: "10",
+    },
+    "Title optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Meta tags optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "3",
+      premium: "5",
+    },
+    "Researched seo tags": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "video-seo": {
+    "Seo friendly unique title": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Keywords/hashtags research": {
+      basic: "10",
+      standard: "10",
+      premium: "10",
+    },
+    "Videos optimized": {
+      basic: "no",
+      standard: "no",
+      premium: "10",
+    },
+    Title: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Description optimized": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Meta tag optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Page/channel optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content ideas": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Reporting: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "5",
+      premium: "6",
+    },
+    "5 videos optimized": {
+      basic: "no",
+      standard: "5",
+      premium: "no",
+    },
+    "1 video optimized": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "video-marketing": {
+    "Organic youtube video promotion": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Reach (people)": {
+      basic: "1000",
+      standard: "3000",
+      premium: "7000",
+    },
+    Backlinks: {
+      basic: "80",
+      standard: "120",
+      premium: "120",
+    },
+    Delivery: {
+      basic: "7",
+      standard: "8",
+      premium: "15",
+    },
+  },
+  "email-marketing": {
+    "E-commerce flows (core) / e-commerce flows": {
+      basic: "2",
+      standard: "6",
+      premium: "6",
+    },
+    "Lead gen pop-up": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Advanced flows": {
+      basic: "no",
+      standard: "no",
+      premium: "2",
+    },
+    "Account setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Automation planning": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Flows: {
+      basic: "2",
+      standard: "6",
+      premium: "8",
+    },
+    "Email template setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+    "Pop-up": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "guest-posting": {
+    "100 unique contents and outreach to different quality home blogs": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Guest post": {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+    "Topic Research": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Article writing": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Seo keywords": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Media asset included": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Backlink included": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "45 days delivery": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Home blog - topic research": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "5",
+      premium: "no",
+    },
+    "Quality outreach": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "affiliate-marketing": {
+    "Intro video (sec)": {
+      basic: "no",
+      standard: "45",
+      premium: "60",
+    },
+    Link: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Background music": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Animated and clickable html5 banner": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Blog mention": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "5",
+      premium: "5",
+    },
+    "Text-to-speech technology": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "public-relations": {
+    "Pr plan (month)": {
+      basic: "no",
+      standard: "6",
+      premium: "6",
+    },
+    "Press starter": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Media to share / media contacts": {
+      basic: "no",
+      standard: "10",
+      premium: "10",
+    },
+    "Page media kit": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    Delivery: {
+      basic: "7",
+      standard: "8",
+      premium: "11",
+    },
+    "Pitch angles": {
+      basic: "no",
+      standard: "10",
+      premium: "no",
+    },
+  },
+  "text-message-marketing": {
+    "Sms automation flows": {
+      basic: "no",
+      standard: "no",
+      premium: "10",
+    },
+    "Welcome series": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Integration/general settings": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Transactional sms flows": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Account support / account setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Contacts import": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Campaign setup / campaign report": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Automation setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "4",
+    },
+  },
+  "marketing-strategy": {
+    "Buyer persona profiles / buyer persona profile": {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+    "Competitors analysis": {
+      basic: "no",
+      standard: "2",
+      premium: "3",
+    },
+    "Swot analysis- buyer personas / swot analysis- buyer personas": {
+      basic: "no",
+      standard: "2",
+      premium: "2",
+    },
+    "Empathy map": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Tone of voice": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Content calendar- buyer personas": {
+      basic: "no",
+      standard: "no",
+      premium: "3",
+    },
+    "Market segments": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Buyer demographics": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Socioeconomic status": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Behavioral patterns": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Habits: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Pain points": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Goals: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Recommendations: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "5",
+    },
+    "Competitor analysis": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "web-analytics": {
+    "Set up ga via gtm": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Google adwords with analytics": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Account setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "E-commerce tracking": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Set up an account / set up adwords remarketing / analytics": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Install tracking tags": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Analytics dashboard": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Create custom ga report": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Custom conversion report": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "4",
+      premium: "8",
+    },
+    "Conversion tracking": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Google tag manager set up / google adwords with analytics": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Tracking goal / tracking setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Configured goal included": {
+      basic: "no",
+      standard: "1",
+      premium: "no",
+    },
+    "Tag manager setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Song medium rotation": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "music-promotion": {
+    "Song medium rotation": {
+      basic: "no",
+      standard: "1",
+      premium: "2",
+    },
+    "Weeks of airplay": {
+      basic: "2",
+      standard: "no",
+      premium: "no",
+    },
+    Plays: {
+      basic: "2",
+      standard: "6",
+      premium: "24",
+    },
+    "Promoted track": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "3",
+    },
+    Platform: {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+  },
+  "podcast-marketing": {
+    Promo: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Show rotation": {
+      basic: "1",
+      standard: "3",
+      premium: "no",
+    },
+    "Social posts voiceover / social post episodes": {
+      basic: "1",
+      standard: "3",
+      premium: "5",
+    },
+    "Voicevideo- podcast aggregators": {
+      basic: "no",
+      standard: "no",
+      premium: "15",
+    },
+    "Keyword optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Seo: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "6",
+    },
+    "Podcast aggregators": {
+      basic: "15",
+      standard: "15",
+      premium: "no",
+    },
+    "Voice over": {
+      basic: "1",
+      standard: "2",
+      premium: "no",
+    },
+  },
+  "book-and-eBook-marketing": {
+    "Tailored marketing plan": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Powerful amazon kdp sp": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Plan promotional campaign": {
+      basic: "",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "11",
+      standard: "8",
+      premium: "6",
+    },
+  },
+  "mobile-app-marketing": {
+    "Optimize platform": {
+      basic: "no",
+      standard: "no",
+      premium: "2",
+    },
+    Keywords: {
+      basic: "no",
+      standard: "20",
+      premium: "no",
+    },
+    "Seo optimized description (platform)": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Keywords / keywords research": {
+      basic: "15",
+      standard: "no",
+      premium: "25",
+    },
+    "Competitors research": {
+      basic: "5",
+      standard: "8",
+      premium: "10",
+    },
+    "App description words": {
+      basic: "250",
+      standard: "500",
+      premium: "500",
+    },
+    "Icon review": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "3",
+    },
+  },
+  "social-media-marketing": {
+    "Analytics account setup / analytics report": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Action plan": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Account review": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Report: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "4",
+      premium: "6",
+    },
+  },
+  "paid-social-media": {
+    "Facebook ads include text": {
+      basic: "no",
+      standard: "4",
+      premium: "6",
+    },
+    "Ad setup and performance": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Audiences: {
+      basic: "no",
+      standard: "2",
+      premium: "2",
+    },
+    "Custom images": {
+      basic: "no",
+      standard: "4",
+      premium: "6",
+    },
+    "Fb- target audience research": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ad content creation": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ads / ads analytical report": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Campaign setup": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "4",
+    },
+    "Page report": {
+      basic: "2",
+      standard: "no",
+      premium: "no",
+    },
+    "Facebook ads": {
+      basic: "4",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "influencer-marketing": {
+    Influencers: {
+      basic: "5",
+      standard: "10",
+      premium: "20",
+    },
+    "Email templates": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Contract sample": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Expert course": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Growth guide": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "5",
+    },
+  },
+  "community-management": {
+    "Discord server setup": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Welcome and server stats": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Community rules": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Technical setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "2",
+    },
+  },
+  "business-websites": {
+    "Design/ re-design / mobile responsive upto (pages)": {
+      basic: "1",
+      standard: "5",
+      premium: "10",
+    },
+    Blog: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Booking: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Pages: {
+      basic: "no",
+      standard: "no",
+      premium: "10",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Plugins/extensions": {
+      basic: "2",
+      standard: "4",
+      premium: "6",
+    },
+    "E-commerce functionality": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Products: {
+      basic: "no",
+      standard: "5",
+      premium: "20",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "8",
+      premium: "11",
+    },
+    Revision: {
+      basic: "no",
+      standard: "no",
+      premium: "unlimited",
+    },
+    "Basic seo": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "no",
+    },
+    "Mobile responsive": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Functional website": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "eCommerce-development": {
+    Categories: {
+      basic: "20",
+      standard: "no",
+      premium: "100",
+    },
+    "30 categories": {
+      basic: "no",
+      standard: "30",
+      premium: "no",
+    },
+    Products: {
+      basic: "3000",
+      standard: "5000",
+      premium: "10000",
+    },
+    Autoblog: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Google seo": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Functional website": {
+      basic: "",
+      standard: "yes",
+      premium: "yes",
+    },
+    Pages: {
+      basic: "4",
+      standard: "8",
+      premium: "yes",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Plugins/extensions": {
+      basic: "7",
+      standard: "no",
+      premium: "yes",
+    },
+    "E-commerce functionality": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revision: {
+      basic: "no",
+      standard: "no",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "6",
+      premium: "6",
+    },
+    "8 plugins/extensions": {
+      basic: "no",
+      standard: "8",
+      premium: "no",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "no",
+    },
+  },
+  "landing-pages": {
+    "Responsive design sections": {
+      basic: "no",
+      standard: "5",
+      premium: "10",
+    },
+    Page: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    "Full functional contact form": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Thank you page": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Functional website": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Opt-in form": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Autoresponder integration": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Social media icons": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revision: {
+      basic: "no",
+      standard: "no",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "5",
+      standard: "unlimited",
+      premium: "no",
+    },
+  },
+  blogs: {
+    "Whitelabel pages": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Functional website": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Chat: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Marketing tips": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Pages: {
+      basic: "6",
+      standard: "10",
+      premium: "10",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Plugins/extensions": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Social media icons": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "6",
+      standard: "6",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "no",
+      standard: "no",
+      premium: "unlimited",
+    },
+    "Google seo": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Mobile friendly": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "web-applications": {
+    Page: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Design customization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source code": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "11",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "api-and-integrations": {
+    "Zap setup steps": {
+      basic: "2",
+      standard: "no",
+      premium: "10",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "22",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "2",
+      premium: "4",
+    },
+  },
+  scripting: {
+    "Complex automation with captcha solving": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Db support": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Proxy support": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Bot detection bypass": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Test script": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Task automation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "no",
+      standard: "5",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "no",
+      standard: "3",
+      premium: "unlimited",
+    },
+    "Install script": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Log in to websites": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Scrap simple pages": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Filling form": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "browser-extensions": {
+    "Chrome extension": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source code": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "8",
+      premium: "11",
+    },
+  },
+  "android-developers": {
+    "Functional android app": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "App icon": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Splash screen": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source code": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ad network integration": {
+      basic: "no",
+      standard: "no",
+      premium: "3",
+    },
+    Delivery: {
+      basic: "15",
+      standard: "30",
+      premium: "60",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "2",
+      premium: "3",
+    },
+  },
+  "iOS-developers": {
+    Application: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Demo app": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "App submission / app icon": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Splash screen": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Ad network integration": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Source code": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "12",
+      premium: "30",
+    },
+    Revisions: {
+      basic: "1",
+      standard: "2",
+      premium: "2",
+    },
+    "Functional ios app": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "cross-platform-apps": {
+    "Design discuss": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Application pages": {
+      basic: "2",
+      standard: "no",
+      premium: "no",
+    },
+    "Functional android app / functional ios app": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "App icon": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Splash screen": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "11",
+      premium: "30",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "no",
+    },
+  },
+  "app-customization": {
+    "Functional android app": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Functional ios app": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source code": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "App design / app submission / app icon": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Operating systems": {
+      basic: "2",
+      standard: "2",
+      premium: "2",
+    },
+    "Splash screen": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ad network integration": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "4",
+    },
+  },
+  "python-developers": {
+    "Complex automation with captcha solving": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Automation: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Db support": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Proxy support": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Bot detection bypass": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Test script": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "4",
+      premium: "6",
+    },
+    "Install script": {
+      basic: "",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Task automation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Scrap simple pages": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Filling form": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "html-and-css-developers": {
+    "Bug fix": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Fix html / css / fix documentation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Detailed code comments": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Bootstrap bug": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Bug investigation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Css: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "javaScript-developers": {
+    "Apps script": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Google services integration": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Apis and automation": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Page mined/scraped": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "Source mine/scraped": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "Install script": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Test script": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Task automation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    Sheet: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Calendar: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Gmail and drive automation": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Formula or script automation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "php-developers": {
+    "Update website php version": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Fix \u00e2\u20ac\u0153php update recommended\u00e2\u20ac\u009d": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Fix php fatal errors / fix documentation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Syntax errors/parse errors": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Uncaught errors": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Bug investigation": {
+      basic: "",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Detailed code comments": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+  "website-customization": {
+    "Fix design issues": {
+      basic: "2",
+      standard: "4",
+      premium: "6",
+    },
+    Backup: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Safe updates": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Video on demand": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Support (week)": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "Global or page specific fixes (pages) / global or page specific fixes / global or page specific fixes - 5 pages":
+      {
+        basic: "5",
+        standard: "10",
+        premium: "10",
+      },
+    "Responsive design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Content upload": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Plugins/extensions": {
+      basic: "2",
+      standard: "3",
+      premium: "4",
+    },
+    "E-commerce functionality": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Products: {
+      basic: "3",
+      standard: "2",
+      premium: "3",
+    },
+    "Payment processing": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Opt-in form": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Autoresponder integration": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercially licensed image": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Social media icons": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    Suggestions: {
+      basic: "2",
+      standard: "4",
+      premium: "no",
+    },
+  },
+  "bug-fixes": {
+    "Error, issue or bug fix": {
+      basic: "no",
+      standard: "3",
+      premium: "5",
+    },
+    "Error fixing": {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+  "backup-and-migration": {
+    "Website transfer": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Ssl setup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Domain transfer": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Email migration to new hosting/company": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Website migration / website backup": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "3",
+    },
+  },
+  "speed-optimization": {
+    "Optimization and code cleaning": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Speed optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Optimize complete website with all pages": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Complete code enhancement as possible": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "3",
+    },
+  },
+  "video-editing": {
+    "Pro editing corporate ads": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Video editing (min)": {
+      basic: "1",
+      standard: "2",
+      premium: "no",
+    },
+    "Green screen": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Tile animation": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Colour: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Trimming: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Logo / logo placement": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Music: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Footage should provided (min)": {
+      basic: "15",
+      standard: "30",
+      premium: "60",
+    },
+    "Running time (min)": {
+      basic: "no",
+      standard: "2",
+      premium: "15",
+    },
+    "Color grading": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Sound mixing / sound design": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Motion graphics": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Subtitles: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "5",
+      premium: "7",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "9",
+    },
+    Mixing: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "visual-effects": {
+    "Full hd custom animation (sec)": {
+      basic: "no",
+      standard: "no",
+      premium: "20",
+    },
+    Delivery: {
+      basic: "6",
+      standard: "8",
+      premium: "11",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "4",
+      premium: "unlimited",
+    },
+  },
+  "video-art": {
+    Picture: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Effects: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Layers: {
+      basic: "no",
+      standard: "3",
+      premium: "5",
+    },
+    "Post production": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Full hd": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "1",
+      standard: "1",
+      premium: "2",
+    },
+    Layer: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "intro-outro-videos": {
+    "Custom intro animation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Custom outro animation / custom design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Banner: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Overlay text": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add logo / add sound effects": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Transparent background": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "3",
+    },
+    "More advanced animations": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "video-templates-editing": {
+    "Duration (sec)": {
+      basic: "no",
+      standard: "no",
+      premium: "120",
+    },
+    "Your template edit": {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+    "Template creation": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "4 days delivery": {
+      basic: "no",
+      standard: "no",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "1",
+      standard: "2",
+      premium: "2",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "no",
+    },
+  },
+  "subtitles-captions": {
+    Transcribe: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Caption: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Captions: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Duration (min)": {
+      basic: "2",
+      standard: "5",
+      premium: "10",
+    },
+    "Major edits": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Revision: {
+      basic: "no",
+      standard: "no",
+      premium: "2",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "4",
+      premium: "6",
+    },
+    Revisions: {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+  },
+  "logo-animation": {
+    Versions: {
+      basic: "1",
+      standard: "3",
+      premium: "5",
+    },
+    "Logo transparency": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add sound effects": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Custom colors": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Overlay text": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "character-animation": {
+    Rigging: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Detailed movements": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Character: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Running time (sec)": {
+      basic: "2",
+      standard: "4",
+      premium: "8",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "6",
+      premium: "14",
+    },
+    Revisions: {
+      basic: "no",
+      standard: "2",
+      premium: "3",
+    },
+    "With mesh": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revision: {
+      basic: "1",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "animated-GIFs": {
+    "Initial concept": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Multiple file sizes": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Running time (sec)": {
+      basic: "5",
+      standard: "5",
+      premium: "7",
+    },
+    "Video format included": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Seamless loop": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Custom design": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Full color": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "2",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "unlimited",
+    },
+    "Based on image/video": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "animation-for-kids": {
+    "Running time (sec)": {
+      basic: "30",
+      standard: "120",
+      premium: "250",
+    },
+    "Background/scenery included / background/scenery": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Custom design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Character: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Delivery: {
+      basic: "4",
+      standard: "10",
+      premium: "14",
+    },
+    Revision: {
+      basic: "1",
+      standard: "2",
+      premium: "2",
+    },
+  },
+  "animation-for-streamers": {
+    Design: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Transparent background": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Running time (sec)": {
+      basic: "5",
+      standard: "6",
+      premium: "7",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Static into animated emote": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "lottie-and-web-animation": {
+    "Custom design": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Initial concept": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Icon: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Logo: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "unlimited",
+    },
+  },
+  rigging: {
+    Rigging: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Project file delivery": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Full body": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Facial rig": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Finger rig": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Ik/fk switch": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "4",
+      premium: "4",
+    },
+  },
+  "nft-animation": {
+    "Transparent gif": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Spin animation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "3d pngs": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "4k resolution": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "2",
+      premium: "2",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+    "Perfect loop": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Resolution: {
+      basic: "sd",
+      standard: "hd",
+      premium: "no",
+    },
+  },
+  "animated-explainers": {
+    "90 seconds running time in 2d": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "2d running time (sec)": {
+      basic: "30",
+      standard: "60",
+      premium: "no",
+    },
+    "Characters included / characters": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Voice over recording": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Script writing": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Illustrated background included / illustrated background": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Up to 225 words within 61-90s": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "1-day delivery": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "Unlimited revisions": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Words upto": {
+      basic: "75",
+      standard: "150",
+      premium: "no",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "no",
+    },
+  },
+  "live-action-explainers": {
+    "Running time (sec)": {
+      basic: "15",
+      standard: "60",
+      premium: "120",
+    },
+    "Add logo": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Music: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Script writing": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Voice over": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Stock footage / stock footages": {
+      basic: "hd",
+      standard: "hd",
+      premium: "hd",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "4",
+    },
+    "Video editing": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "spokesperson-videos": {
+    "4k": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Background: {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Office background": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add logo": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Custom outfit": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Music: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "6",
+      standard: "6",
+      premium: "6",
+    },
+    "Crystal's choice of outfit": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "screencasting-videos": {
+    "1080 p resolution": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Background music": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Voice over recording": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Captions: {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Highlighting effects": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Full commercial rights": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "6",
+      standard: "6",
+      premium: "6",
+    },
+  },
+  "learning-video-production": {
+    "10 min video": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Video (min)": {
+      basic: "1",
+      standard: "5",
+      premium: "no",
+    },
+    "Topic research": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Voice over recording": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Titles: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Graphics: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "1 lesson": {
+      basic: "no",
+      standard: "no",
+      premium: "1",
+    },
+    "4-day delivery": {
+      basic: "no",
+      standard: "no",
+      premium: "4",
+    },
+    "Unlimited revisions": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Lesson: {
+      basic: "1",
+      standard: "1",
+      premium: "no",
+    },
+    "3-day delivery": {
+      basic: "no",
+      standard: "3",
+      premium: "no",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "no",
+      premium: "no",
+    },
+  },
+  "crowdfunding-videos": {
+    "Running time (sec)": {
+      basic: "30",
+      standard: "60",
+      premium: "120",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "video-ads-and-commercials": {
+    "Video editing": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Running time (sec)": {
+      basic: "30",
+      standard: "45",
+      premium: "60",
+    },
+    "Script writing": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Length variation": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Size orientation": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Product imagery": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Premium grade stock footage": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercially licensed sound track": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Words: {
+      basic: "40",
+      standard: "60",
+      premium: "80",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "5",
+      premium: "5",
+    },
+    Revision: {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+  },
+  "social-media-videos": {
+    Video: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Version: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Content ideation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Special effects": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Subtitles: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Video (sec)": {
+      basic: "30",
+      standard: "60",
+      premium: "90",
+    },
+    "Motion graphic": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Masking vfx": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Sfx: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Clean caption": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "7",
+    },
+  },
+  "UGC-videos-new": {
+    Video: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Video (sec)": {
+      basic: "no",
+      standard: "no",
+      premium: "90",
+    },
+    "Voice over recording": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Raw footage": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Subtitles/captions included / subtitles/captions": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Script writing": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Usage rights(months)": {
+      basic: "3",
+      standard: "3",
+      premium: "3",
+    },
+    "Graphic elements": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Additional hooks": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Revision: {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    "Running time (sec)": {
+      basic: "30",
+      standard: "60",
+      premium: "no",
+    },
+  },
+  "music-videos": {
+    "Running time (sec)": {
+      basic: "150",
+      standard: "270",
+      premium: "330",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "6",
+      premium: "6",
+    },
+    Revisions: {
+      basic: "6",
+      standard: "9",
+      premium: "9",
+    },
+  },
+  "slideshow-videos": {
+    Photos: {
+      basic: "50",
+      standard: "200",
+      premium: "400",
+    },
+    Captions: {
+      basic: "20",
+      standard: "20",
+      premium: "20",
+    },
+    "Video footage": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Dynamic transitions": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "1",
+      standard: "2",
+      premium: "3",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "3D-product-animation": {
+    "Running time (sec)": {
+      basic: "10",
+      standard: "25",
+      premium: "45",
+    },
+    "Add 3d animation": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "3d modeling": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Lighting: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Exploded view": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "X-ray view": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "5",
+      standard: "yes",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+  "eCommerce-product-videos": {
+    "Running time (sec)": {
+      basic: "30",
+      standard: "45",
+      premium: "60",
+    },
+    "Product filming included / product filming": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Overlay text": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Background music": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Captions: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "One color background": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Pro light": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Script writing": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Live-model included": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Multi-platform optimization": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "7",
+      standard: "14",
+      premium: "14",
+    },
+    "2 revision": {
+      basic: "no",
+      standard: "no",
+      premium: "2",
+    },
+    Revision: {
+      basic: "1",
+      standard: "2",
+      premium: "no",
+    },
+  },
+  "corporate-videos": {
+    "Running time (sec)": {
+      basic: "20",
+      standard: "40",
+      premium: "60",
+    },
+    "Licensed stock footage": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Music: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Motion graphics text and transitions / motion graphics": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "4",
+      premium: "5",
+    },
+    "Script writing": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Voice over recording": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Revisions: {
+      basic: "unlimited",
+      standard: "unlimited",
+      premium: "unlimited",
+    },
+  },
+  "app-and-website-previews": {
+    "Add logo": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Dynamic transitions": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Running time (sec)": {
+      basic: "30",
+      standard: "45",
+      premium: "60",
+    },
+    Captions: {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Screenshots: {
+      basic: "5",
+      standard: "5",
+      premium: "7",
+    },
+    "Screen recording": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "3",
+      standard: "3",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "5",
+      premium: "unlimited",
+    },
+  },
+  "eCommerce-marketing": {
+    "Targeted/niche specific keyword": {
+      basic: "15",
+      standard: "65",
+      premium: "120",
+    },
+    "Seo optimized titles": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Shop audit": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "E-commerce seo audit": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    Pages: {
+      basic: "1",
+      standard: "5",
+      premium: "10",
+    },
+    "Title optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Meta tags optimization": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "4",
+      premium: "4",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "3",
+      premium: "5",
+    },
+    "Researched seo tags": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+  },
+  "book-design": {
+    "Words Upto": {
+      basic: "12K",
+      standard: "24K",
+      premium: "36K",
+    },
+    "interior pages": {
+      basic: "75",
+      standard: "150",
+      premium: "225",
+    },
+    images: {
+      basic: "5",
+      standard: "5",
+      premium: "15",
+    },
+    "Include source file": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Include social media kit": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Table of contents": {
+      basic: "Yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2 days",
+      standard: "3 days",
+      premium: "4 days",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "Unlimited",
+    },
+  },
+  "tattoo-design": {
+    "Add color": {
+      basic: "No",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Add background/scene": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Include shading": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Commercial use": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Tattoo flash sheet": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Include source file": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+  "display-advertising": {
+    "Banner Ads sizes": {
+      basic: "6",
+      standard: "12",
+      premium: "20",
+    },
+    "Include source file": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    "design included": {
+      basic: "1",
+      standard: "1",
+      premium: "1",
+    },
+    Delivery: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+    Revisions: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+  "software-testing": {
+    "Summary report": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    "Annotated screen shots": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    Minutes: {
+      basic: "5",
+      standard: "10",
+      premium: "15",
+    },
+    "Responsiveness test": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    "Vulnerability test": {
+      basic: "No",
+      standard: "No",
+      premium: "Yes",
+    },
+    "Functionality test": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    "Usability test": {
+      basic: "No",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    "Browser compatibility test": {
+      basic: "No",
+      standard: "Yes",
+      premium: "Yes",
+    },
+    "Performance/load test": {
+      basic: "No",
+      standard: "No",
+      premium: "Yes",
+    },
+  },
+  "design-review": {
+    "Summary report": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "yes",
+    },
+    "Annotated screen shots": {
+      basic: "Yes",
+      standard: "Yes",
+      premium: "yes",
+    },
+    minutes: {
+      basic: "10",
+      standard: "15",
+      premium: "30",
+    },
+    "Responsiveness test": {
+      basic: "Yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Vulnerability test": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Functionality test": {
+      basic: "no",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Usability test": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Browser compatibility test": {
+      basic: "no",
+      standard: "no",
+      premium: "yes",
+    },
+    "Performance/load test": {
+      basic: "Yes",
+      standard: "no",
+      premium: "yes",
+    },
+    delivery: {
+      basic: "3 days",
+      standard: "4 days",
+      premium: "5 days",
+    },
+    Revisions: {
+      basic: "3",
+      standard: "5",
+      premium: "unlimited",
+    },
+  },
+  "user-testing": {
+    "pages tested": {
+      basic: "2",
+      standard: "5",
+      premium: "12",
+    },
+    "Test scenario": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Summary report": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Annotated screen shots": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    minute: {
+      basic: "1",
+      standard: "4",
+      premium: "8",
+    },
+    "Test desktop": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    "Test mobile": {
+      basic: "yes",
+      standard: "yes",
+      premium: "yes",
+    },
+    delivery: {
+      basic: "3 days",
+      standard: "5 days",
+      premium: "10 days",
+    },
+    Revision: {
+      basic: "2",
+      standard: "3",
+      premium: "5",
+    },
+  },
+}

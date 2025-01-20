@@ -2,8 +2,33 @@
 import { useState } from "react";
 import EyeIcon from "~/components/icons/EyeIcon";
 import EyeOffIcon from "~/components/icons/EyeOffIcon";
+import { Form, redirect, json, useActionData } from "@remix-run/react";
+import bcrypt from "bcryptjs";
+import { db } from "~/db.server";
+
+export async function action({ request }: { request: Request }) {
+    const formData = await request.formData();
+    const name = formData.get("username") as string;
+    const email = formData.get("email") as string;
+    const password = formData.get("password") as string;
+
+    if (!email || !password) {
+        return json({ error: "All fields are required" }, { status: 400 });
+    }
+
+    const existingUser = await db.users.findUnique({ where: { email } });
+    if (existingUser) {
+        return json({ error: "Email is already registered" }, { status: 400 });
+    }
+
+    const hashedPassword = await bcrypt.hash(password, 10);
+    await db.users.create({ data: { name, email, password: hashedPassword } });
+
+    return redirect("/login");
+}
 
 export default function SignUp() {
+    const actionData = useActionData();
     const [password, setPassword] = useState("");
     const [confirmPassword, setConfirmPassword] = useState("");
     const [passwordVisible, setPasswordVisible] = useState(false);
@@ -24,7 +49,6 @@ export default function SignUp() {
 
     const validatePassword = () => {
         const newErrors: { password?: string; confirmPassword?: string } = {};
-    
         if (password.length < 8) {
             newErrors.password = "Password must be at least 8 characters long";
         } else if (!/(?=.*[a-z])/.test(password)) {
@@ -36,34 +60,31 @@ export default function SignUp() {
         } else if (!/(?=.*[@$!%*?&])/.test(password)) {
             newErrors.password = "Password must contain at least one special character (@$!%*?&)";
         }
-    
+
         if (confirmPassword && password !== confirmPassword) {
             newErrors.confirmPassword = "Passwords do not match";
         }
-    
-        // Ensure both properties exist in the object
+
         setErrors({
-            password: newErrors.password || "", 
+            password: newErrors.password || "",
             confirmPassword: newErrors.confirmPassword || "",
         });
     };
-    
-    
 
     return (
         <div className="flex min-h-screen items-center justify-center bg-gray-100">
             <div className="w-full max-w-md p-8 rounded-lg shadow-md ">
                 <h2 className="text-2xl font-bold text-center text-red-600 mb-5">Sign Up</h2>
-                <form onSubmit={(e) => { e.preventDefault(); validatePassword(); }}>
+                <Form method="post">
                     {/* Username */}
                     <div className="mb-4">
                         <label className="block text-gray-700">Username</label>
                         <input
-                        type="text"
-                        name="username"
-                        required
-                        className="w-full p-2 mt-1 border border-gray-300 rounded-md focus:ring-red-500 focus:border-red-500"
-                        placeholder="Enter your username"
+                            type="text"
+                            name="username"
+                            required
+                            className="w-full p-2 mt-1 border border-gray-300 rounded-md focus:ring-red-500 focus:border-red-500"
+                            placeholder="Enter your username"
                         />
                     </div>
 
@@ -71,13 +92,14 @@ export default function SignUp() {
                     <div className="mb-4">
                         <label className="block text-gray-700">Email</label>
                         <input
-                        type="email"
-                        name="email"
-                        required
-                        className="w-full p-2 mt-1 border border-gray-300 rounded-md focus:ring-red-500 focus:border-red-500"
-                        placeholder="Enter your email"
+                            type="email"
+                            name="email"
+                            required
+                            className="w-full p-2 mt-1 border border-gray-300 rounded-md focus:ring-red-500 focus:border-red-500"
+                            placeholder="Enter your email"
                         />
                     </div>
+
                     {/* Password */}
                     <div className="mb-4 relative">
                         <label className="block text-gray-700">Password</label>
@@ -115,9 +137,15 @@ export default function SignUp() {
                             onChange={(e) => {
                                 setConfirmPassword(e.target.value);
                                 if (password !== e.target.value) {
-                                    setErrors(prevErrors => ({ ...prevErrors, confirmPassword: "Passwords do not match" }));
+                                    setErrors((prevErrors) => ({
+                                        ...prevErrors,
+                                        confirmPassword: "Passwords do not match",
+                                    }));
                                 } else {
-                                    setErrors(prevErrors => ({ ...prevErrors, confirmPassword: "" }));
+                                    setErrors((prevErrors) => ({
+                                        ...prevErrors,
+                                        confirmPassword: "",
+                                    }));
                                 }
                             }}
                             className="w-full p-2 mt-1 border border-gray-300 rounded-md focus:ring-red-500 focus:border-red-500"
@@ -130,8 +158,14 @@ export default function SignUp() {
                         >
                             {confirmPasswordVisible ? <EyeOffIcon /> : <EyeIcon />}
                         </button>
-                        {errors.confirmPassword && <p className="text-sm text-red-600">{errors.confirmPassword}</p>}
+                        {errors.confirmPassword && (
+                            <p className="text-sm text-red-600">{errors.confirmPassword}</p>
+                        )}
                     </div>
+
+                    {actionData?.error && (
+                        <p style={{ color: "red", marginBottom: "1rem" }}>{actionData.error}</p>
+                    )}
 
                     {/* Submit Button */}
                     <div className="mb-6">
@@ -144,10 +178,13 @@ export default function SignUp() {
                     </div>
                     <div>
                         <p className="mb-4 text-center text-gray-600">
-                            Already have an account ? <a href="/login" className="text-red-600 hover:underline">Log In</a>
+                            Already have an account ?{" "}
+                            <a href="/login" className="text-red-600 hover:underline">
+                                Log In
+                            </a>
                         </p>
                     </div>
-                </form>
+                </Form>
             </div>
         </div>
     );

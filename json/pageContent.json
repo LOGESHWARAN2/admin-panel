@@ -1,0 +1,688 @@
+{
+  "logo-design": {
+    "title": "Logo Design",
+    "content":
+      "Your logo is your brand's visual signature. It's the first thing your customers see, and it should leave a lasting impression. Our expert designers craft logos that not only look stunning but also resonate with your target audience. A powerful logo can be the difference between being forgotten and being remembered.",
+    "images": ["logo-1.jpg", "logo-2.jpg", "logo-3.jpg"],
+  },
+  "brand-style": {
+    "title": "Brand Style Guides",
+    "content":
+      "Consistency is key in branding. Our comprehensive style guides ensure that every aspect of your brand, from colors to typography, is uniform across all platforms. This consistency builds trust and recognition. It's the secret sauce that keeps your brand memorable and credible.",
+    "images": ["brand-1.jpg", "brand-2.jpg", "brand-3.jpg"],
+  },
+  "buisness-cards": {
+    "title": "Business Cards & Stationery",
+    content:
+      "Impress in every meeting with professionally designed business cards and stationery. A well-designed business card is a conversation starter and a mini-billboard for your brand. It's your chance to make a physical connection in a digital world.",
+    images: ["buisness-1.jpg", "buisness-2.jpg", "buisness-3.jpg"],
+  },
+  "fonts-typography": {
+    title: "Fonts & Typography",
+    content:
+      "Typography might seem subtle, but it plays a massive role in how your brand communicates. We select fonts that complement your message, making your brand more readable and memorable. Typography is the unsung hero that adds elegance and clarity to your brand.",
+    images: ["font-1.jpg", "font-2.jpg", "font-3.jpg"],
+  },
+  illustration: {
+    title: "Illustration",
+    content:
+      "Whether it's a concept, a vision, or a story, we illustrate it with precision and creativity. Every stroke is a masterpiece in the making.",
+    images: ["illustration-1.jpg", "illustration-2.jpg", "illustration-3.jpg"],
+  },
+  "children-illustration": {
+    title: "Children's Book Illustration",
+    content:
+      "We specialize in creating magical worlds for young readers. Our illustrations bring stories to life, making learning an adventure and bedtime tales unforgettable.",
+    images: ["children-1.jpg", "children-2.jpg", "children-3.jpg"],
+  },
+  "portrait-caricatures": {
+    title: "Portraits & Caricatures",
+    content:
+      "Our skilled artists capture the essence of a person in every stroke. Portraits freeze a moment in time, and caricatures add a playful twist to personalities.",
+    images: ["portrait-1.jpg", "portrait-2.jpg", "portrait-3.jpg"],
+  },
+  "cartoon-comics": {
+    title: "Cartoons & Comics",
+    content:
+      "Laughter is universal, and so is the appeal of our cartoons and comics. We craft humor and storytelling in every panel, making readers smile one frame at a time.",
+    images: ["cartoon-1.jpg", "cartoon-2.jpg", "cartoon-3.jpg"],
+  },
+  "pattern-design": {
+    title: "Pattern Design",
+    content:
+      "From fabrics to wallpapers, our pattern designs transform the mundane into the extraordinary. Every pattern tells a story and adds a touch of art to your surroundings.",
+    images: ["pattern-1.jpg", "pattern-2.jpg", "pattern-3.jpg"],
+  },
+  "tattoo-design": {
+    title: "Tattoo Design",
+    content:
+      "Tattoos are personal canvases, and we're your tattoo artists. Our designs etch meaningful moments and stories into skin, creating lifelong memories.",
+    images: ["tattoo-1.jpg", "tattoo-2.jpg", "tattoo-3.jpg"],
+  },
+  "story-boards": {
+    title: "Storyboards",
+    content:
+      "Every great story starts with a vision. Our storyboards bring narratives to life, guiding filmmakers and creators on their visual journeys.",
+    images: ["story-1.jpg", "story-2.jpg", "story-3.jpg"],
+  },
+  "nft-art": {
+    title: "NFT Art",
+    content:
+      "Step into the future of art. Our NFT art is not just digital; it's a piece of blockchain history. We create digital marvels that redefine ownership and creativity.",
+    images: ["nft-1.jpg", "nft-2.jpg", "nft-3.jpg"],
+  },
+  "image-editing": {
+    title: "Image Editing",
+    content:
+      "Pictures are worth a thousand words, and our image editing services make sure they say the right ones. We enhance, retouch, and perfect every pixel.",
+    images: ["image-1.jpg", "image-2.jpg", "image-3.jpg"],
+  },
+  "presentation-design": {
+    title: "Presentation Design",
+    content:
+      "Elevate your message with captivating presentations. We design slides that engage, inform, and leave a lasting impact on your audience.",
+    images: ["presentation-1.jpg", "presentation-2.jpg", "presentation-3.jpg"],
+  },
+  "background-removal": {
+    title: "Background Removal",
+    content:
+      "We erase distractions, leaving only the spotlight on your subject. Our background removal service ensures that your content shines, whether it's for e-commerce, marketing, or personal use.",
+    images: ["background-1.jpg", "background-2.jpg", "background-3.jpg"],
+  },
+  "infographic-design": {
+    title: "Infographic Design",
+    content:
+      "Information becomes a work of art in our hands. Our infographics blend data and design, making complex information engaging and easy to understand.",
+    images: ["infographic-1.jpg", "infographic-2.jpg", "infographic-3.jpg"],
+  },
+  "vector-tracing": {
+    title: "Vector Tracing",
+    content:
+      "Precision is our forte. We convert raster images into smooth vector graphics, preserving every detail for scalability and versatility.",
+    images: ["infographic-1.jpg", "infographic-2.jpg", "infographic-3.jpg"],
+  },
+  "resume-design": {
+    title: "Resume Design",
+    content:
+      "Your career deserves to stand out. We craft resumes that not only impress but also tell your unique professional story, making you a standout candidate.",
+    images: ["resume-1.jpg", "resume-2.jpg", "resume-3.jpg"],
+  },
+  "flyer-design": {
+    title: "Flyer Design",
+    content:
+      "Fly high above the competition with our flyer designs. We turn paper into persuasive art, delivering your message straight into the hands of your audience.",
+    images: ["flyer-1.jpg", "flyer-2.jpg", "flyer-3.jpg"],
+  },
+  "brochure-design": {
+    title: "Brochure Design",
+    content:
+      "Brochures are more than just paper; they're gateways to your brand. Our designs transform brochures into immersive experiences, enticing readers to explore further.",
+    images: ["brochure-1.jpg", "brochure-2.jpg", "brochure-3.jpg"],
+  },
+  "poster-design": {
+    title: "Poster Design",
+    content:
+      "Make a statement with our poster designs. We turn walls and bulletin boards into showcases of your brand, events, or products.",
+    images: ["poster-1.jpg", "poster-2.jpg", "poster-3.jpg"],
+  },
+  "catalog-design": {
+    title: "Catalog Design",
+    content:
+      "Your products deserve to shine. Our catalog designs organize and present your offerings in a way that captivates and converts customers.",
+    images: ["catalog-1.jpg", "catalog-2.jpg", "catalog-3.jpg"],
+  },
+  "menu-design": {
+    title: "Menu Design",
+    content:
+      "Dining is an experience, and our menu designs set the stage. We create menus that not only list dishes but also whet appetites and create anticipation.",
+    images: ["menu-1.jpg", "menu-2.jpg", "menu-3.jpg"],
+  },
+  "packaging-label": {
+    title: "Packaging & Label Design",
+    content:
+      "Your product's first touchpoint is its packaging. Our designs don't just protect; they captivate, making your product irresistible on the shelf.",
+    images: ["packaging-1.jpg", "packaging-2.jpg", "packaging-3.jpg"],
+  },
+  "book-design": {
+    title: "Book Design",
+    content:
+      "Every book deserves a beautiful soul, and our designs infuse character into every page. From layout to typography, we create books that tell stories even before they're opened.",
+    images: ["book-1.jpg", "book-2.jpg", "book-3.jpg"],
+  },
+  "book-covers": {
+    title: "Book Covers",
+    content:
+      "They say, \"Don't judge a book by its cover,\" but our book covers invite judgment. We design covers that entice readers to explore what's inside.",
+    images: ["book-1.jpg", "book-2.jpg"],
+  },
+  "album-cover": {
+    title: "Album Cover Design",
+    content:
+      "Music is an emotion, and our album covers translate it visually. We craft album covers that are not just art; they're gateways to auditory journeys.",
+  },
+  "video-editing": {
+    title: "Video Editing",
+    content:
+      "We craft visual narratives that leave an impact. Our video editing expertise turns raw footage into cinematic journeys, captivating audiences from start to finish.",
+    videos: ["video-1.webm", "video-2.webm", "video-3.webm"],
+  },
+  "visual-effects": {
+    title: "Visual Effects",
+    content:
+      "Elevate your videos to new dimensions. Our visual effects artists add magic to your content, making the impossible possible and the ordinary extraordinary.",
+    videos: ["visual-1.webm", "visual-2.webm", "visual-3.webm"],
+  },
+  "video-art": {
+    title: "Video Art",
+    content:
+      "Video isn't just content; it's art. Our video artists create visual masterpieces that engage, provoke thought, and stay etched in memory.",
+    videos: ["video-1.webm", "video-2.webm", "video-3.webm"],
+  },
+  "intro-outro-videos": {
+    title: "Intro & Outro Videos",
+    content:
+      "Make your videos unforgettable from the first frame to the last. Our intro and outro videos set the stage and leave a lasting impression.",
+    videos: ["intro-1.webm", "intro-2.webm", "intro-3.webm"],
+  },
+  "video-templates-editing": {
+    title: "Video Templates Editing",
+    content:
+      "Efficiency meets creativity. We customize video templates to suit your brand's style, ensuring consistency without compromising uniqueness.",
+    videos: ["video-1.webm", "video-2.webm", "video-3.webm"],
+  },
+  "subtitles-captions": {
+    title: "Subtitles & Captions",
+    content:
+      "Speak to the world. Our subtitles and captions make your content accessible to diverse audiences, breaking language barriers and enhancing engagement.",
+    videos: ["subtitles-1.webm", "subtitles-2.webm", "subtitles-3.webm"],
+  },
+  "logo-animation": {
+    title: "Logo Animation",
+    content:
+      "Your brand deserves to come to life. Our logo animations transform static logos into dynamic brand ambassadors that leave a lasting impression.",
+    videos: ["logo-1.webm", "logo-2.webm", "logo-3.webm"],
+  },
+  "character-animation": {
+    title: "Character Animation",
+    content:
+      "Characters with heart and soul. Our character animations breathe life into your creations, making them relatable, memorable, and full of personality.",
+    videos: ["character-1.webm", "character-2.webm", "character-3.webm"],
+  },
+  "animated-GIFs": {
+    title: "Animated GIFs",
+    content:
+      "Moments that loop forever. Our animated GIFs are perfect for conveying emotions, telling stories, and sparking engagement in a fun and concise format.",
+    gif: ["animated-1.gif", "animated-2.gif", "animated-3.gif"],
+  },
+  "animation-for-kids": {
+    title: "Animation for Kids",
+    content:
+      "Sparking young imaginations. Our animations for kids are designed to entertain, educate, and inspire the next generation of dreamers.",
+    videos: ["animation-1.webm", "animation-2.webm", "animation-3.webm"],
+  },
+  "animation-for-streamers": {
+    title: "Animation for Streamers",
+    content:
+      "Elevate your streaming experience. Our animations for streamers add a touch of professionalism and entertainment to your live broadcasts.",
+    videos: ["animation-1.webm", "animation-2.webm", "animation-3.webm"],
+  },
+  "lottie-and-web-animation": {
+    title: "Lottie & Web Animation",
+    content:
+      "Dynamic web experiences that captivate. Our Lottie and web animations create interactive and engaging online journeys.",
+    videos: ["lottie-1.webm", "lottie-2.webm", "lottie-3.webm"],
+  },
+  rigging: {
+    title: "Rigging",
+    content:
+      "Your characters, your way. Our rigging services ensure that characters and objects move realistically and seamlessly, enhancing the overall animation quality.",
+  },
+  "nft-animation": {
+    title: "NFT Animation",
+    content:
+      "Embrace the future of art. Our NFT animations are not just digital; they're blockchain-bound masterpieces that redefine ownership and creativity.",
+    videos: ["nft-1.webm", "nft-2.webm", "nft-3.webm"],
+  },
+  "animated-explainers": {
+    title: "Animated Explainers",
+    content:
+      "Simplify complexity with style. Our animated explainers break down concepts into engaging visual stories that resonate with your audience.",
+    videos: ["animated-1.webm", "animated-2.webm", "animated-3.webm"],
+  },
+  "live-action-explainers": {
+    title: "Live Action Explainers",
+    content:
+      "Bring your narrative to life. Our live-action explainers combine the real world with imagination, delivering impactful messages that stick.",
+    videos: ["live-1.webm", "live-2.webm", "live-3.webm"],
+  },
+  "spokesperson-videos": {
+    title: "Spokesperson Videos",
+    content:
+      "Put a face to your brand. Our spokesperson videos build trust, credibility, and connection by bringing your message to life through human presence.",
+    videos: [
+      "spokesperson-1.webm",
+      "spokesperson-2.webm",
+      "spokesperson-3.webm",
+    ],
+  },
+  "screencasting-videos": {
+    title: "Screencasting Videos",
+    content:
+      "Show, don't tell. Our screencasting videos demonstrate software, products, or processes with clarity and precision.",
+    videos: [
+      "screencasting-1.webm",
+      "screencasting-2.webm",
+      "screencasting-3.webm",
+    ],
+  },
+  "learning-video-production": {
+    title: "Learning Video Production",
+    content:
+      "Education meets entertainment. Our learning video production engages learners with captivating visuals and instructional content.",
+    videos: ["learning-1.webm", "learning-2.webm"],
+  },
+  "crowdfunding-videos": {
+    title: "Crowdfunding Videos",
+    content:
+      "Kickstart success with compelling storytelling. Our crowdfunding videos inspire backers and investors, turning ideas into funded realities.",
+    videos: [
+      "crowdfunding-1.webm",
+      "crowdfunding-2.webm",
+      "crowdfunding-3.webm",
+    ],
+  },
+  "video-ads-and-commercials": {
+    title: "Video Ads & Commercials",
+    content:
+      "Elevate your brand's presence on screens both big and small. Our video ads and commercials are designed to capture attention and inspire action.",
+    videos: ["video-1.webm", "video-2.webm", "video-3.webm"],
+  },
+  "social-media-videos": {
+    title: "Social Media Videos",
+    content:
+      "Socialize your brand with style. Our social media videos are tailored for the fast-scrolling, short-attention-span world of social platforms.",
+    videos: ["social-1.webm", "social-2.webm", "social-3.webm"],
+  },
+  /* "UGC-videos-new": {
+    title: "UGC Videos (NEW)",
+    content:
+      "Harness the power of user-generated content. Our UGC videos are authentic, engaging, and a testament to your brand's community.",
+  }, */
+  "music-videos": {
+    title: "Music Videos",
+    content:
+      "Create visual symphonies that resonate with your audience. Our music videos add a layer of storytelling to your music, enhancing its impact.",
+    videos: ["music-1.webm", "music-2.webm", "music-3.webm"],
+  },
+  /* "slideshow-videos": {
+    title: "Slideshow Videos",
+    content:
+      "Transform stills into dynamic stories. Our slideshow videos breathe life into photos and graphics, making your visuals come alive",
+  }, */
+  "3D-product-animation": {
+    title: "3D Product Animation",
+    content:
+      "Showcase your products like never before. Our 3D product animations give customers an immersive experience and an in-depth look at what you offer.",
+    videos: ["3d-1.webm", "3d-2.webm", "3d-3.webm"],
+  },
+  "eCommerce-product-videos": {
+    title: "E-Commerce Product Videos",
+    content:
+      "Let your products shine online. Our e-commerce product videos help customers make informed decisions, boosting sales and conversions.",
+    videos: ["eCommerce-1.webm", "eCommerce-2.webm", "eCommerce-3.webm"],
+  },
+  "corporate-videos": {
+    title: "Corporate Videos",
+    content:
+      "Your brand's story, professionally told. Our corporate videos convey your company's values, mission, and vision with authenticity and impact.",
+    videos: ["corporate-1.webm", "corporate-2.webm", "corporate-3.webm"],
+  },
+  "app-and-website-previews": {
+    title: "App & Website Previews",
+    content:
+      "Make a memorable first impression. Our app and website previews are concise, engaging trailers that compel users to explore further.",
+    videos: ["app-1.webm", "app-2.webm", "app-3.webm"],
+  },
+  "social-media-design": {
+    title: "Social Media Design",
+    content:
+      "Your online presence deserves to stand out. We craft social media designs that resonate with your audience, boosting engagement and brand recognition.",
+    images: ["social-1.jpg", "social-2.jpg", "social-3.jpg"],
+  },
+  "social-posts-and-banners": {
+    title: "Social Posts & Banners",
+    content:
+      "In the fast-paced world of social media, your content needs to shine. Our social posts and banners are scroll-stoppers, delivering your message with impact.",
+    images: ["social-1.jpg", "social-2.jpg", "social-3.jpg"],
+  },
+  "email-design": {
+    title: "Email Design",
+    content:
+      "Make your emails more than just messages; make them experiences. Our email designs turn campaigns into interactive journeys, increasing click-through rates.",
+    images: ["email-1.jpg", "email-2.jpg", "email-3.jpg"],
+  },
+  "web-banners": {
+    title: "Web Banners",
+    content:
+      "The web is your canvas, and our banners are your brushstrokes. We create web banners that not only grab attention but also drive clicks and conversions.",
+    images: ["web-1.jpg", "web-2.jpg", "web-3.jpg"],
+  },
+  "signage-design": {
+    title: "Signage Design",
+    content:
+      "First impressions matter, and our signage designs make sure they're memorable. From storefronts to events, we craft signs that guide, inform, and entice.",
+    images: ["signage-1.jpg", "signage-2.jpg", "signage-3.jpg"],
+  },
+  "video-marketing": {
+    title: "Video Marketing",
+    content:
+      "From concept to distribution, we create video content that captivates and converts. Our video marketing strategies are your ticket to online stardom.",
+    images: ["video-1.jpg", "video-2.jpg", "video-3.jpg"],
+  },
+  "eCommerce-marketing": {
+    title: "E-Commerce Marketing",
+    content:
+      "Transform your online store into a thriving marketplace. Our E-Commerce marketing strategies drive traffic, sales, and customer loyalty.",
+    images: ["eCommerce-1.jpg", "eCommerce-2.jpg", "eCommerce-3.jpg"],
+  },
+  "email-marketing": {
+    title: "Email Marketing",
+    content:
+      "Your subscribers deserve more than just emails; they deserve experiences. Our email marketing campaigns build relationships, turning subscribers into advocates.",
+    images: ["email-1.jpg", "email-2.jpg", "email-3.jpg"],
+  },
+  "guest-posting": {
+    title: "Guest Posting",
+    content:
+      "Expand your reach with our guest posting services. We secure strategic placements that not only build authority but also attract new audiences.",
+    images: ["guest-1.jpg", "guest-2.jpg", "guest-3.jpg"],
+  },
+  "affiliate-marketing": {
+    title: "Affiliate Marketing",
+    content:
+      "Forge powerful partnerships that drive results. Our affiliate marketing strategies connect your brand with influencers and affiliates who amplify your reach.",
+    images: ["affiliate-1.jpg", "affiliate-2.jpg", "affiliate-3.jpg"],
+  },
+  "display-advertising": {
+    title: "Display Advertising",
+    content:
+      "Your brand deserves to be front and center. Our display advertising campaigns create visual spectacles that capture attention and inspire action.",
+    images: ["display-1.jpg", "display-2.jpg", "display-3.jpg"],
+  },
+  "public-relations": {
+    title: "Public Relations",
+    content:
+      "Your reputation is your currency. Our public relations experts craft narratives that shape perception and cultivate trust among your audience.",
+    images: ["public-1.jpg", "public-2.jpg", "public-3.jpg"],
+  },
+  "text-message-marketing": {
+    title: "Text Message Marketing",
+    content:
+      "Reach your audience where they are. Our text message marketing campaigns deliver your message directly to their fingertips, driving engagement and conversions.",
+    images: ["text-1.jpg", "text-2.jpg", "text-3.jpg"],
+  },
+  "marketing-strategy": {
+    title: "Marketing Strategy",
+    content:
+      "Every success story begins with a plan. Our marketing strategies are blueprints for success, aligning your brand's goals with targeted tactics.",
+    images: ["marketing-1.jpg", "marketing-2.jpg", "marketing-3.jpg"],
+  },
+  "web-analytics": {
+    title: "Web Analytics",
+    content:
+      "Data is your compass in the digital landscape. Our web analytics services decode the numbers, providing actionable insights that fuel your marketing decisions.",
+    images: ["web-1.jpg", "web-2.jpg", "web-3.jpg"],
+  },
+  "music-promotion": {
+    title: "Music Promotion",
+    content:
+      "Let your music reach the world. Our music promotion strategies strike the right chord, catapulting your tunes to the top of playlists and charts.",
+    images: ["music-1.jpg", "music-2.jpg", "music-3.jpg"],
+  },
+  "podcast-marketing": {
+    title: "Podcast Marketing",
+    content:
+      "Your voice deserves to be heard. Our podcast marketing expertise ensures your message reaches the right ears, turning listeners into loyal fans.",
+    images: ["podcast-1.jpg", "podcast-2.jpg", "podcast-3.jpg"],
+  },
+  "book-and-eBook-marketing": {
+    title: "Book & eBook Marketing",
+    content:
+      "Stories are meant to be shared. Our book and eBook marketing campaigns transform tales into bestsellers, captivating readers far and wide.",
+    images: ["book-1.jpg", "book-2.jpg", "book-3.jpg"],
+  },
+  "mobile-app-marketing": {
+    title: "Mobile App Marketing",
+    content:
+      "Apps are the future, and our marketing strategies ensure your app doesn't get lost in the crowd. We make sure it's the go-to choice for users.",
+    images: ["mobile-1.jpg", "mobile-2.jpg", "mobile-3.jpg"],
+  },
+  "social-media-marketing": {
+    title: "Social Media Marketing",
+    content:
+      "Social media is your stage, and we make sure your brand steals the spotlight. Our social media marketing strategies drive engagement and followership.",
+    images: ["social-1.jpg", "social-2.jpg", "social-3.jpg"],
+  },
+  "paid-social-media": {
+    title: "Paid Social Media",
+    content:
+      "Boost your reach with precision. Our paid social media campaigns ensure your message reaches the right audience, delivering maximum impact for your budget.",
+    images: ["paid-1.jpg", "paid-2.jpg", "paid-3.jpg"],
+  },
+  "influencer-marketing": {
+    title: "Influencer Marketing",
+    content:
+      "Partner with those who inspire. Our influencer marketing connects your brand with influencers who amplify your message and spark conversations.",
+    images: ["influencer-1.jpg", "influencer-2.jpg", "influencer-3.jpg"],
+  },
+  "community-management": {
+    title: "Community Management",
+    content:
+      "Build, nurture, and grow your online community with us. Our community management strategies foster meaningful connections and brand loyalty.",
+    images: ["community-1.jpg", "community-2.jpg", "community-3.jpg"],
+  },
+  "website-design": {
+    title: "Website Design",
+    content:
+      "Your website is your online storefront. We create web experiences that captivate, engage, and convert visitors into customers. Your website will be your 24/7 brand ambassador.",
+    images: ["website-1.jpg", "website-2.jpg", "website-3.jpg"],
+  },
+  "app-design": {
+    title: "App Design",
+    content:
+      "In the age of mobile, a well-designed app is a must. Our app designers craft sleek and intuitive mobile experiences that keep users coming back for more. Your app will be a user's favorite.",
+    images: ["app-1.jpg", "app-2.jpg", "app-3.jpg"],
+  },
+  "ux-design": {
+    title: "UX Design",
+    content:
+      "User experience is everything. Our UX experts ensure that every interaction with your brand is smooth and delightful. We turn clicks into aha moments and frustration into satisfaction.",
+    images: ["ux-1.jpg", "ux-2.jpg", "ux-3.jpg"],
+  },
+  "landing-page-design": {
+    title: "Landing Page Design",
+    content:
+      "First impressions matter. Our landing page designs are engineered for conversion. We'll make sure your visitors don't just browse, but take action.",
+    images: ["landing-1.jpg", "landing-2.jpg", "landing-3.jpg"],
+  },
+  "icon-design": {
+    title: "Icon Design",
+    content:
+      "Icons are the language of modern design. We create icons that speak volumes in a single glance. Your brand will be instantly recognizable.",
+    images: ["icon-1.jpg", "icon-2.jpg", "icon-3.jpg"],
+  },
+  "search-engine-optimization": {
+    title: "Search Engine Optimization (SEO)",
+    content:
+      "In the digital realm, visibility is power. Our SEO strategies propel your brand to the top of search results, ensuring it's found when it matters most.",
+    images: ["search-1.jpg", "search-2.jpg", "search-3.jpg"],
+  },
+  "search-engine-marketing": {
+    title: "Search Engine Marketing (SEM)",
+    content:
+      "Don't just wait to be discovered; seize the moment with our SEM expertise. We create targeted campaigns that bring your brand to the forefront of search engines.",
+    images: ["search-1.jpg", "search-2.jpg", "search-3.jpg"],
+  },
+  "local-seo": {
+    title: "Local SEO",
+    content:
+      "Dominate your local market with our Local SEO expertise. We put your business on the map, ensuring it's the first choice for customers in your neighborhood.",
+    images: ["local-1.jpg", "local-2.jpg", "local-3.jpg"],
+  },
+  "eCommerce-seo": {
+    title: "E-Commerce SEO",
+    content:
+      "In the world of online shopping, visibility is gold. Our E-Commerce SEO strategies turn browsers into buyers, driving sales and growth for your online store.",
+    images: ["eCommerce-1.jpg", "eCommerce-2.jpg", "eCommerce-3.jpg"],
+  },
+  "video-seo": {
+    title: "Video SEO",
+    content:
+      "Videos are the future of content, and our Video SEO ensures your videos are seen by the right audience, boosting engagement and reach.",
+    images: ["video-1.jpg", "video-2.jpg", "video-3.jpg"],
+  },
+  "business-websites": {
+    title: "Business Websites",
+    content:
+      "Your website is your digital storefront, and we design it to dazzle. Our business websites are the gateway to your brand, attracting visitors and converting them into customers.",
+    images: ["business-1.jpg", "business-2.jpg", "business-3.jpg"],
+  },
+  "eCommerce-development": {
+    title: "E-Commerce Development",
+    content:
+      "In the world of online shopping, your store deserves to shine. Our E-Commerce development turns digital storefronts into thriving marketplaces, making every click count.",
+    images: ["eCommerce-1.jpg", "eCommerce-2.jpg", "eCommerce-3.jpg"],
+  },
+  "landing-pages": {
+    title: "Landing Pages",
+    content:
+      "First impressions matter, and our landing pages are your best foot forward. We create landing pages that captivate, engage, and convert visitors into leads.",
+    images: ["landing-1.jpg", "landing-2.jpg", "landing-3.jpg"],
+  },
+  blogs: {
+    title: "Blogs",
+    content:
+      "Content is king, and our blog designs make sure your message reigns supreme. We create blogs that inform, inspire, and build authority in your industry.",
+    images: ["blogs-1.jpg", "blogs-2.jpg", "blogs-3.jpg"],
+  },
+  "portfolio-work": {
+    title: "Portfolio",
+    content:
+      "Your work deserves to be showcased in style. Our portfolio designs turn your accomplishments into a visual narrative that impresses clients and employers alike.",
+    images: ["portfolio-1.jpg", "portfolio-2.jpg", "portfolio-3.jpg"],
+  },
+  "web-applications": {
+    title: "Web Applications",
+    content:
+      "Move beyond websites; embrace web applications. Our web applications transform ideas into interactive digital experiences that redefine user engagement.",
+    images: ["web-1.jpg", "web-2.jpg", "web-3.jpg"],
+  },
+  "api-and-integrations": {
+    title: "APIs & Integrations",
+    content:
+      "Seamlessly connect your software ecosystem. Our APIs and integrations create bridges that enable your systems to work harmoniously.",
+    images: ["api-1.jpg", "api-2.jpg", "api-3.jpg"],
+  },
+  scripting: {
+    title: "Scripting",
+    content:
+      "Code is poetry, and our scripting expertise weaves magic into your software. We create scripts that automate tasks, saving time and effort.",
+    images: ["scripting-1.jpg", "scripting-2.jpg", "scripting-3.jpg"],
+  },
+  "browser-extensions": {
+    title: "Browser Extensions",
+    content:
+      "Customize your online experience. Our browser extensions add functionality and convenience at your fingertips, enhancing your web browsing.",
+    images: ["browser-1.jpg", "browser-2.jpg", "browser-3.jpg"],
+  },
+  "android-developers": {
+    title: "Android Developers",
+    content:
+      "The world is mobile, and our Android developers are the architects of your Android apps, ensuring they're feature-rich and user-friendly.",
+    images: ["android-1.jpg", "android-2.jpg", "android-3.jpg"],
+  },
+  "iOS-developers": {
+    title: "iOS Developers",
+    content:
+      "Enter the Apple ecosystem with grace. Our iOS developers craft apps that thrive on iPhones and iPads, delivering impeccable performance and aesthetics.",
+    images: ["iOS-1.jpg", "iOS-2.jpg", "iOS-3.jpg"],
+  },
+  "cross-platform-apps": {
+    title: "Cross-platform Apps",
+    content:
+      "Reach every corner of the digital world. Our cross-platform apps ensure your software works seamlessly across diverse devices and platforms.",
+    images: ["cross-1.jpg", "cross-2.jpg", "cross-3.jpg"],
+  },
+  "app-customization": {
+    title: "App Customization",
+    content:
+      "Tailored to your needs. Our app customization takes your vision and transforms it into an app that perfectly suits your goals and requirements.",
+    images: ["app-1.jpg", "app-2.jpg", "app-3.jpg"],
+  },
+  "python-developers": {
+    title: "Python Developers",
+    content:
+      "The language of versatility. Our Python developers harness this powerhouse language to create solutions that are robust, scalable, and agile.",
+    images: ["python-1.jpg", "python-2.jpg", "python-3.jpg"],
+  },
+  "html-and-css-developers": {
+    title: "HTML & CSS Developers",
+    content:
+      "The building blocks of the web. Our HTML and CSS developers craft web experiences that are visually stunning, responsive, and user-centric.",
+    images: ["html-1.jpg", "html-2.jpg", "html-3.jpg"],
+  },
+  "javaScript-developers": {
+    title: "JavaScript Developers",
+    content:
+      "The language of interactivity. Our JavaScript developers breathe life into your web applications, making them dynamic and engaging.",
+    images: ["javaScript-1.jpg", "javaScript-2.jpg", "javaScript-3.jpg"],
+  },
+  "php-developers": {
+    title: "PHP Developers",
+    content:
+      "Harnessing the power of PHP. Our PHP developers build web solutions that are efficient, scalable, and cost-effective.",
+    images: ["php-1.jpg", "php-2.jpg", "php-3.jpg"],
+  },
+  "website-customization": {
+    title: "Website Customization",
+    content:
+      "Your online identity, your way. Our website customization ensures that your digital presence aligns perfectly with your brand's personality and goals.",
+    images: ["website-1.jpg", "website-2.jpg", "website-3.jpg"],
+  },
+  "bug-fixes": {
+    title: "Bug Fixes",
+    content:
+      "Perfection is in the details. Our bug fixes uncover and eliminate imperfections, ensuring your software runs smoothly and reliably.",
+    images: ["bug-1.jpg", "bug-2.jpg", "bug-3.jpg"],
+  },
+  "backup-and-migration": {
+    title: "Backup & Migration",
+    content:
+      "Safeguarding your digital assets. Our backup and migration services ensure that your data remains secure and accessible during transitions.",
+    images: ["backup-1.jpg", "backup-2.jpg", "backup-3.jpg"],
+  },
+  "speed-optimization": {
+    title: "Speed Optimization",
+    content:
+      "Every second matters. Our speed optimization techniques supercharge your digital platforms, reducing load times and boosting user satisfaction.",
+    images: ["speed-1.jpg", "speed-2.jpg", "speed-3.jpg"],
+  },
+  "software-testing": {
+    title: "Software Testing",
+    content:
+      "Vigilant eyes on every line of code. Our software testing procedures leave no stone unturned, ensuring your applications are flawless and resilient.",
+    images: ["software-1.jpg", "software-2.jpg", "software-3.jpg"],
+  },
+  "design-review": {
+    title: "Design Review",
+    content:
+      "Elevating aesthetics and usability. Our design reviews refine the visual and interactive aspects of your digital presence for optimal user experience.",
+    images: ["design-1.jpg", "design-2.jpg", "design-3.jpg"],
+  },
+  "user-testing": {
+    title: "User Testing",
+    content:
+      "Real users, real insights. Our user testing strategies put your software in the hands of real people, providing invaluable feedback for improvements.",
+    images: ["user-1.jpg", "user-2.jpg", "user-3.jpg"],
+  },
+}
