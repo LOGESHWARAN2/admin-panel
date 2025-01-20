@@ -1,14 +1,48 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
-import { Form } from "@remix-run/react";
+import { Form, useActionData} from "@remix-run/react";
 import { db } from "~/db.server";
 
 
 import { useState } from "react";
 import EyeIcon from "~/components/icons/EyeIcon";
 import EyeOffIcon from "~/components/icons/EyeOffIcon";
+import { ActionFunction, redirect } from "@remix-run/node";
+import bcrypt from "bcryptjs";
+
+export const action: ActionFunction = async ({ request }) => {
+  const formData = await request.formData();
+  const email = formData.get("email") as string;
+  const password = formData.get("password") as string;
+
+  // Validate input
+  if (!email || !password) {
+    return { error: "Email and password are required." };
+  }
+
+  // Find the user in the database
+  const user = await db.users.findUnique({
+    where: { email },
+  });
+
+  if (!user) {
+    return { error: "Invalid credentials." };
+  }
+
+  // Verify the password
+  const isPasswordValid = await bcrypt.compare(password, user.password);
+
+  if (!isPasswordValid) {
+    return { error: "Password Invalid." };
+  }
+
+  // Redirect to dashboard or another page
+  return redirect("/dashboard");
+};
+
 
 export default function Login() {
     const [showPassword, setShowPassword] = useState(false);
+    const actionData = useActionData();
   return (
     <div className="flex h-screen items-center justify-center">
             <div className="p-8 rounded-lg shadow-md">
@@ -49,6 +83,7 @@ export default function Login() {
             </button>
           </div>
 
+                {actionData?.error && <p style={{ color: "red" }}>{actionData.error}</p>}
                 {/* Login Button */}
                 <button 
                     type="submit" 
