@@ -6,19 +6,24 @@ import { Form, redirect, json, useActionData } from "@remix-run/react";
 import bcrypt from "bcryptjs";
 import { db } from "~/db.server";
 
-export async function action({ request }: { request: Request }) {
+// Define the type for the action data
+type ActionData = {
+  error: string;
+} | undefined;
+
+export async function action({ request }: { request: Request }): Promise<Response> {
     const formData = await request.formData();
     const name = formData.get("username") as string;
     const email = formData.get("email") as string;
     const password = formData.get("password") as string;
 
     if (!email || !password) {
-        return json({ error: "All fields are required" }, { status: 400 });
+        return json<ActionData>({ error: "All fields are required" }, { status: 400 });
     }
 
     const existingUser = await db.users.findUnique({ where: { email } });
     if (existingUser) {
-        return json({ error: "Email is already registered" }, { status: 400 });
+        return json<ActionData>({ error: "Email is already registered" }, { status: 400 });
     }
 
     const hashedPassword = await bcrypt.hash(password, 10);
@@ -28,7 +33,7 @@ export async function action({ request }: { request: Request }) {
 }
 
 export default function SignUp() {
-    const actionData = useActionData();
+    const actionData = useActionData<ActionData>();
     const [password, setPassword] = useState("");
     const [confirmPassword, setConfirmPassword] = useState("");
     const [passwordVisible, setPasswordVisible] = useState(false);
@@ -45,30 +50,6 @@ export default function SignUp() {
         } else {
             setPasswordStrength("Too Short ❌");
         }
-    };
-
-    const validatePassword = () => {
-        const newErrors: { password?: string; confirmPassword?: string } = {};
-        if (password.length < 8) {
-            newErrors.password = "Password must be at least 8 characters long";
-        } else if (!/(?=.*[a-z])/.test(password)) {
-            newErrors.password = "Password must contain at least one lowercase letter";
-        } else if (!/(?=.*[A-Z])/.test(password)) {
-            newErrors.password = "Password must contain at least one uppercase letter";
-        } else if (!/(?=.*\d)/.test(password)) {
-            newErrors.password = "Password must contain at least one number";
-        } else if (!/(?=.*[@$!%*?&])/.test(password)) {
-            newErrors.password = "Password must contain at least one special character (@$!%*?&)";
-        }
-
-        if (confirmPassword && password !== confirmPassword) {
-            newErrors.confirmPassword = "Passwords do not match";
-        }
-
-        setErrors({
-            password: newErrors.password || "",
-            confirmPassword: newErrors.confirmPassword || "",
-        });
     };
 
     return (
