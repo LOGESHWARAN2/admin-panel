@@ -7,7 +7,7 @@ export async function loader({ request }: { request: Request }) {
     const userEmail = session.get("user");
 
     if (!userEmail) {
-        return redirect("/login");
+        return redirect("/");
     }
 
     return new Response(

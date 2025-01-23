@@ -4,13 +4,25 @@ import { db } from "~/db.server";
 import { useState } from "react";
 import EyeIcon from "~/components/icons/EyeIcon";
 import EyeOffIcon from "~/components/icons/EyeOffIcon";
-import { ActionFunction, redirect } from "@remix-run/node";
+import { ActionFunction, redirect, LoaderFunction } from "@remix-run/node";
 import bcrypt from "bcryptjs";
 import { getSession, commitSession } from "~/session.server";
 
 type ActionData = {
 	error?: string;
 } | undefined;
+
+export const loader: LoaderFunction = async ({ request }) => {
+    const session = await getSession(request.headers.get("Cookie"));
+    const userEmail = session.get("user");
+
+    // If user is already logged in, redirect to dashboard
+    if (userEmail) {
+        return redirect("/dashboard");
+    }
+
+    return null;
+};
 
 export const action: ActionFunction = async ({ request }): Promise<ActionData | Response> => {
 	const formData = await request.formData();
@@ -104,5 +116,3 @@ export default function Login() {
 		</div>
 	);
 }
-
-
