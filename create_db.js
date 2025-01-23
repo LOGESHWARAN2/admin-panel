@@ -35,21 +35,25 @@ async function initializeDatabase() {
     console.log('Users table created or already exists.');
 
     // Create `pricingplan` table
-    // const createPricingPlanTable = `
-    //   CREATE TABLE IF NOT EXISTS pricingplan (
-    //     id INT AUTO_INCREMENT PRIMARY KEY,
-    //     name VARCHAR(255) NOT NULL,
-    //     price DECIMAL(10, 2) NOT NULL,
-    //     description TEXT,
-    //     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-    //   );
-    // `;
-    // await connection.query(createPricingPlanTable);
-    // console.log('PricingPlan table created or already exists.');
+    const createPricingPlanTable = `
+      CREATE TABLE IF NOT EXISTS pricingplan (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        plan_id INT NOT NULL,
+        pricing_plan_id INT NOT NULL,
+        plan_name VARCHAR(255) NOT NULL,
+        basic VARCHAR(255) NULL,
+        standard VARCHAR(255) NULL,
+        premium VARCHAR(255) NULL,
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+      );
+    `;
+    await connection.query(createPricingPlanTable);
+    console.log('PricingPlan table created or already exists.');
 
     // // Create `pagecontent` table
     const data = fs.readFileSync('./json/pageContent.json', 'utf-8'); // Read file as a string
-    const pagecontent = JSON.parse(data); // Parse the string into a JSON object
+    let pagecontent = JSON.parse(data); // Parse the string into a JSON object
     const createPageContentTable = `
       CREATE TABLE IF NOT EXISTS pagecontent (
         id INT AUTO_INCREMENT PRIMARY KEY,
@@ -64,34 +68,12 @@ async function initializeDatabase() {
     await connection.query(createPageContentTable);
     console.log('PageContent table created or already exists.');
     let table = 'pagecontent';
-    const insertQuery = `INSERT INTO ${table} (plan_id, title, content, images) VALUES ?`;
-
-    const keys = Object.keys(pagecontent);
-    console.log('kes => ', pagecontent["user-testing"]);
-    const values = keys.map((key) => {
-      const {title, content, images, videos} = pagecontent[key];
-      let resources = [];
-      if(images && images.length) {
-        resources = images;
-      }
-      if(videos && videos .length) {
-        resources = videos ;
-      }
-
-      console.warn(pagecontent[key]);
-      // console.log('title => ',title);
-      // console.log('content => ',content);
-      // console.log('images => ',resources);
-      return [title, content, resources.join('')];
-    });
-    connection.query(insertQuery, [values], (err, result) => {
-      if (err) throw err;
-      console.log(`Inserted ${result.affectedRows} rows into '${table}'.`);
-      connection.end(); // Close the connection
-      console.log('Connection closed.');
-    });
-    // Close the connection
-    // await connection.end();
+    let insertQuery = `INSERT INTO ${table} (plan_id, title, content, resources) VALUES (?, ?, ?, ?)`;
+    
+    pagecontent = Object.values(pagecontent);
+    
+    insertData(connection, table, insertQuery, pagecontent);
+    
   } catch (err) {
     console.error('Error initializing the database:', err.message);
   }
@@ -99,3 +81,41 @@ async function initializeDatabase() {
 
 // Run the database initialization
 initializeDatabase();
+async function insertData(connection, table, insertQuery, data) {
+  try {
+    data.forEach(async (value, index) => {
+      const { title, content, images, videos } = value;
+      let resources = [];
+
+      // Handle images and videos
+      if (images && images.length) {
+        resources = images;
+      }
+      if (videos && videos.length) {
+        resources = videos;
+      }
+
+      // Prepare the data for insertion
+      const modified = [index + 1, title, content, resources.join(',')];
+
+      // Perform the query
+      await new Promise((resolve, reject) => {
+        connection.query(insertQuery, modified, (err, result) => {
+          if (err) {
+            reject(err);
+            return;
+          }
+          console.log(`Inserted ${result.affectedRows} rows into '${table}'.`);
+          resolve();
+        });
+      });
+    });
+
+    // Close the connection after all queries are done
+    connection.end();
+    console.log('Connection closed.');
+  } catch (err) {
+    console.error('Error inserting data:', err);
+    connection.end();
+  }
+}
