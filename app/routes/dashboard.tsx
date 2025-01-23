@@ -1,5 +1,5 @@
 import { redirect } from "@remix-run/node";
-import { useLoaderData, useSubmit } from "@remix-run/react";
+import { Link, useLoaderData, useSubmit } from "@remix-run/react";
 import { getSession, commitSession } from "~/session.server";
 
 export async function loader({ request }: { request: Request }) {
@@ -38,12 +38,16 @@ export default function Dashboard() {
 
                 <div className="grid grid-cols-2 gap-4">
                     <div className="p-4 bg-gray-200 rounded-md text-center">
-                        <h3 className="text-lg font-semibold">Profile</h3>
-                        <p className="text-sm text-gray-600">Manage your profile settings</p>
+                        <Link to="/pricing-plans" className="block w-full h-full p-4">
+                            <h3 className="text-lg font-semibold">Pricing Plans</h3>
+                            <p className="text-sm text-gray-600">View your pricing plans</p>
+                        </Link>
                     </div>
                     <div className="p-4 bg-gray-200 rounded-md text-center">
-                        <h3 className="text-lg font-semibold">Settings</h3>
-                        <p className="text-sm text-gray-600">Customize your preferences</p>
+                        <Link to="/page-content" className="block w-full h-full p-4">
+                            <h3 className="text-lg font-semibold">Page Content</h3>
+                            <p className="text-sm text-gray-600">Customize your Page Content</p>
+                        </Link>
                     </div>
                     <div className="p-4 bg-gray-200 rounded-md text-center">
                         <h3 className="text-lg font-semibold">Orders</h3>
