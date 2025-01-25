@@ -1,5 +1,4 @@
-import PageContentIndex from "~/components/pageContent/pageContent";
-
+import PageContentIndex from "~/routes/pageContent";
 export default function PageContent () {
     return(
         <>
